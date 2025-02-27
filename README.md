@@ -63,7 +63,7 @@ To execute the payload on the target machine, you need to deliver the payload.ex
 - Social engineering (e.g., convincing the user to run the file).
 - Exploiting an existing vulnerability to upload and execute the payload.
 - Phishing emails or malicious attachments.
-- Once the target executes the payload, a Meterpreter session will be opened on your attacking machine.
+  Once the target executes the payload, a Meterpreter session will be opened on your attacking machine.
 ## Step 4: Maintain Persistence
 Persistence ensures that you retain access to the target system even after a reboot or logoff.
 
